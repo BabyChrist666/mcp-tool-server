@@ -1,5 +1,10 @@
 # MCP Tool Server
 
+[![Tests](https://github.com/BabyChrist666/mcp-tool-server/actions/workflows/tests.yml/badge.svg)](https://github.com/BabyChrist666/mcp-tool-server/actions/workflows/tests.yml)
+[![codecov](https://codecov.io/gh/BabyChrist666/mcp-tool-server/branch/master/graph/badge.svg)](https://codecov.io/gh/BabyChrist666/mcp-tool-server)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Production-ready Model Context Protocol (MCP) server with file, shell, and search tools.
 
 MCP enables AI assistants to interact with external tools and data sources through a standardized interface. This server provides a complete implementation with built-in tools for common operations.
