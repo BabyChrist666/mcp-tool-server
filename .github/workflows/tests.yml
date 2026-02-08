@@ -29,7 +29,7 @@ jobs:
 
     - name: Run tests
       run: |
-        pytest tests/ -v --cov=mcp_tool_server --cov-report=xml
+        pytest tests/ -v --cov=mcp_server --cov-report=xml
 
     - name: Upload coverage
       uses: codecov/codecov-action@v4
